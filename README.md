@@ -7,10 +7,10 @@ This is a user-friendly chat application built using HTML, CSS, and JavaScript. 
 ## Tech Stack
 
 <div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="HTML5" src="img/html.png"/>
+  <img alt="CSS3" src="img/css.png"/> 
+  <img alt="JavaScript" src="img/js.png"/>
+  <img alt="Firebase" src="img/firebase.png"/>
   
 </div>
 
