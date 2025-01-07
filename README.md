@@ -7,10 +7,10 @@ This is a user-friendly chat application built using HTML, CSS, and JavaScript. 
 ## Tech Stack
 
 <div align="left">
-  <img alt="HTML5" src="img/html.png"/>
-  <img alt="CSS3" src="img/css.png"/> 
-  <img alt="JavaScript" src="img/js.png"/>
-  <img alt="Firebase" src="img/firebase.png"/>
+  <img alt="HTML5" src="img/html.png" width="30" height="30"/>
+  <img alt="CSS3" src="img/css.png" width="30" height="30"/> 
+  <img alt="JavaScript" src="img/js.png" width="30" height="30"/>
+  <img alt="Firebase" src="img/firebase.png" width="30" height="30"/>
   
 </div>
 
